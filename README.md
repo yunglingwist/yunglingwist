@@ -7,7 +7,7 @@
 🎓 Currently MA student in [Digital Humanities and Digital Knowledge](https://corsi.unibo.it/2cycle/DigitalHumanitiesKnowledge) [@Unibo](https://www.unibo.it/)<br/>
 📖 Studied Linguistics BA and Graphic Design AA <br/>
 🌏 Fluent in Turkish, English and Italian <br/>
-🎮​ Innovative design is my passion (Game design, 3D modelling, AR/VR) <br/>
+🎮​ Innovative design is my passion (Game design, 3D modelling, AI) <br/>
 
 
 
