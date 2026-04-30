@@ -1,5 +1,5 @@
 ##  Hi, I'm Ceyda ✨​
-<img align="right" alt="Coding" width="200" src="https://animationfactory.com/siteimages/articles/article3.gif">
+<img align="right" alt="Coding" width="160" src="https://animationfactory.com/siteimages/articles/article3.gif">
 <!-- gif from animation factory --> 
 
 
@@ -8,8 +8,6 @@
 📖 Studied Linguistics BA and Graphic Design AA <br/>
 🌏 Fluent in Turkish, English and Italian <br/>
 🎮​ Innovative design is my passion (Game design, 3D modelling, AR/VR) <br/>
-
-
 
 
 
